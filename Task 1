@@ -36,7 +36,6 @@ def main():
             encrypt()
         elif choice == "2":
             decrypt()
-        
         else:
             print("Invalid choice. Please try again.\n")
 
